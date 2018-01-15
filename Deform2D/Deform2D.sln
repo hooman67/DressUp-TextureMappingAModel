@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Deform2D", "Deform2D.vcxproj", "{9CE66209-C7AF-443F-BD51-574E27D8819C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WildMagic2", "Wml\Source\WildMagic2.vcxproj", "{014EB7A4-B72D-4FF8-89F7-7ECC07FDD076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Debug|Win32.Build.0 = Debug|Win32
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Debug|x64.ActiveCfg = Debug|x64
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Debug|x64.Build.0 = Debug|x64
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Release|Win32.ActiveCfg = Release|Win32
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Release|Win32.Build.0 = Release|Win32
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Release|x64.ActiveCfg = Release|x64
+		{9CE66209-C7AF-443F-BD51-574E27D8819C}.Release|x64.Build.0 = Release|x64
+		{014EB7A4-B72D-4FF8-89F7-7ECC07FDD076}.Debug|Win32.ActiveCfg = DebugDLL|Win32
+		{014EB7A4-B72D-4FF8-89F7-7ECC07FDD076}.Debug|x64.ActiveCfg = Debug|x64
+		{014EB7A4-B72D-4FF8-89F7-7ECC07FDD076}.Release|Win32.ActiveCfg = ReleaseDLL|Win32
+		{014EB7A4-B72D-4FF8-89F7-7ECC07FDD076}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
